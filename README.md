@@ -9,8 +9,8 @@ Ensure that you have Python installed on your system.
 Open a terminal or command prompt.
 Use the following commands to install the necessary modules:
 
-pip install tkinter
-pip install Pillow
+pip install tkinter , 
+pip install Pillow , 
 pip install requests
 
 Save the code to a Python file:
